@@ -7,3 +7,6 @@ Sarthi
 trial
 new
 rainbow
+laptop
+hp
+wipro
