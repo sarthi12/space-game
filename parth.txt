@@ -8,3 +8,6 @@ trial
 new
 rainbow
 apple
+mango
+pinapple
+greenapple
